@@ -9,6 +9,6 @@ def my_each(collection)
   
     collection
   else
-    "This block should not run!"
+    puts "This block should not run!"
   end
 end
